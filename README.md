@@ -3,4 +3,4 @@
 3 . name:reddy
 4 . project:version control test
 5 . college:anmk
-6 . course:mba
+6 . course:btech
